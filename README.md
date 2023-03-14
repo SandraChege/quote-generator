@@ -2,7 +2,7 @@
 The goal of this tool is to encourage and uplift individuals who may be struggling with mental health issues, by providing them with positive affirmations and words of encouragement.
 
 ## Author name
-The above project and the RADME file was created by Sandra Mwihaki. The live link to the project is ###
+The above project and the RADME file was created by Sandra Mwihaki. The live link to the project is https://sandrachege.github.io/quote-generator/
 
  ## CREATION PROCEDURE
  1. create a .html file and added appropriate tags and content.
